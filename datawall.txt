@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "Anomaly Backrooms Escape_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=98474b88d486c764b6c8c4dbb5774863b39fd268-9107065-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=bdfa3bf7816d124cac09e2c602b038d7828d9e07-10877381-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=9b7e9c79eb17e79708582e62546bb3db6762c6ec-10871820-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=c30732d0175e322d32aefd81831829c00e676462-10995124-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=0140147e793c23f617f6c9ff66cd1e9756aa8806-8507274-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=da10409b3aafe4240fc1cb379eff1fed8dfe8a0d-7552276-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=a29410f0972477422873d2d6174f4996c1cc65d6-10995513-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=5c32a33af9a40970884857e6af078fa479dbcae4-10576312-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_1",
+          "path": "https://avatars.mds.yandex.net/i?id=2cfc233a32a3185228d0233d42a3b04946eab372-4817429-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "Anomaly Backrooms Escape_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=57d7e883aa5e30ddf9f4833aa2607f2bd5218a61-8895061-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=74b63a01d0313cd25a501af6f7e1b706c784c558-4829890-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=663330b4d45f6f2f98d2fc02555cc98d484bb398-5233276-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=1697be9c569e5186ed030ef94a7203d033797f5a-10137431-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=663330b4d45f6f2f98d2fc02555cc98d484bb398-5233276-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=6cb9467559e4a9e1da2560175979a3abcca2c04a-10837594-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=a1ff62ff448b1f6333ac465c9d7bd71a697b5bc3-7662450-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=d377d8ca45fb4b946efc1bf36590967d97b62866-8221351-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_2",
+          "path": "https://avatars.mds.yandex.net/i?id=066930c6e798303d8fd70f44018c30b4df365b93-9173887-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "Anomaly Backrooms Escape_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=8cd39ce432f7dc1beb34e26120b4a0163edc236c-3268103-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=b743d2393abd6ec6f65447f9e36d3a2bf8a6d626-8455861-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=41619aa51aecb6023b8be8c2a242ea497693525f-4560317-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=172ee7d13cb70d2452a652ba9602a77ce1d5b5d3-4220397-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=7b81b88877f691ed4d980aea63bf1238676baf0e-8225379-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=c4f22089d22cf35131bdc32a1db8d66b51b1ca6b-10870632-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=9e38dad8461269c686ca90bb836db33d492d0ed4-8497218-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=f093a836fedaaa29aa4098e1540ea55f12071258-9181638-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Anomaly Backrooms Escape_3",
+          "path": "https://avatars.mds.yandex.net/i?id=8c854613d9886af545e6d25a605c0dbe2df6d625-8497298-images-thumbs&n=13"
         }
       ]
     }
